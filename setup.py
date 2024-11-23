@@ -1,4 +1,4 @@
-"""Crow/AAP Alarm IP / Serial Module package."""
+"""AAP Alarm IP / Serial Module package."""
 from setuptools import setup, find_packages
 
 setup(
