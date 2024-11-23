@@ -1,2 +1,5 @@
-# pyaapalarmmodule
-Async API library for ArrowHead Alarm Systems (IP and Serial Modules) for use with Home Assistant Custom Component: ha_aapalarmsystem
+# pycrowipmodule
+Async API library for ArrowHead Alarm IP and Serial Modules...
+The module should be using AAP Firmware for open smart home applications.
+
+This library is written for homeassistant custom component...
