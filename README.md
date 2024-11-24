@@ -12,8 +12,6 @@
 
 This repo is used to store the source related to the **pyaapalarmmodule** used by a Home Assistant Custom Integration, it provides the underlying capabilities to communicate with [ArrowHead Alarm Systems](https://aap.co.nz) using either their ESL-2 IoT / App module, or the RS232 Serial module. It has been tested against my own ArrowHead Alarm System using the RS232 module.
 
----
-
 ## 🙌 Acknowledgements
 
 The source code is based on the amazing work of [febalci](https://github.com/febalci), and have been adapted to more closely align with the ArrowHead Alarm System, and support both the IP and Serial modules for communicating with the alarm. Make sure to check out more of [febalci](https://github.com/febalci) work, including:
